@@ -1,1 +1,1 @@
-﻿Console.WriteLine("что")
+﻿Console.WriteLine("что");
